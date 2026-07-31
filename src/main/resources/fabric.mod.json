@@ -2,8 +2,8 @@
 	"schemaVersion": 1,
 	"id": "modid",
 	"version": "${version}",
-	"name": "Example Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Arcane Armory",
+	"description": "Adds two magic weapons: the Laser Wand (hitscan blaster) and the Voidstrike Scepter (chain-lightning bolt / AoE void nova).",
 	"authors": [
 		"Me!"
 	],

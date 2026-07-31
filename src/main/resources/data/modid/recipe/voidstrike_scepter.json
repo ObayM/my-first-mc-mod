@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "V": "modid:void_shard",
+    "A": "minecraft:amethyst_shard",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "VAV",
+    " S "
+  ],
+  "result": {
+    "id": "modid:voidstrike_scepter"
+  }
+}
