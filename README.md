@@ -1,9 +1,19 @@
-# Example Mod
+My first mc mod. I decided to add two magic weapons and a mob that drops the
+material for one of them :)
 
-## Setup
+**Laser Wand**: this shoots a beam 30 blocks out and hits the first thing in the way
+for 6 damage.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+**Voidstrike Scepter**: shoots a bolt that jumps to 3 more enemies nearby, getting
+weaker each jump, and leaves Wither behind. Hold shift and right-click instead
+and it goes off like a bomb around you 
 
-## License
+**Void Wraith** is where the shards come from. It's a Vex, but meaner, and it
+gives you Nausea and Blindness when it hits you. Endermen drop a shard now and
+then too.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Playing with it
+
+You need Fabric Loader 0.19.3 or newer, Fabric API, and Java 25. download the jar
+from the releases page and drop it in your mods folder, open creative world and you'd see the items in the inventory :)
+
