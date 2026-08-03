@@ -17,3 +17,4 @@ then too.
 You need Fabric Loader 0.19.3 or newer, Fabric API, and Java 25. download the jar
 from the releases page and drop it in your mods folder, open creative world and you'd see the items in the inventory :)
 
+It fits the "no internet" theme perfectly because it works without an internet connection. :)
